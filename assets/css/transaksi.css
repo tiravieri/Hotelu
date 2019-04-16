@@ -1,0 +1,44 @@
+.nav-details{
+	background-color: #212121;
+}
+
+.nav-details-link{
+    color:white;
+    font-weight:600;
+    font-size: 20px;
+    padding-bottom:5px;
+}
+
+li a.nav-details-link:focus
+{
+	color:#FFFFFF;
+    background-color: #0BD3D5;
+    border-radius:4px;
+}
+
+li a.nav-details-link:hover{
+	color:#FFFFFF;
+    background-color: #0BD3D5;
+    border-radius:4px;
+}
+
+.nav li.active a{
+	color:#FFFFFF;
+    background-color: #0BD3D5;
+    border-radius:4px;
+}
+
+.rincian-label{
+   color:#1976d2 !important;
+   font-weight:600;
+}
+
+.rincian-value{
+    color : orange !important;
+    font-weight:600;
+}
+
+.btn-pembayaran{
+    width:100%;
+    font-weight:600 !important;
+}

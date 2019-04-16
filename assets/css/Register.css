@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+.coverBg{
+			background-image: url(backhotel.png);
+			background-repeat: no-repeat;
+			
+			width: 100%;
+			height: 100%;
+			background-size: 100%;
+		}
+		
+		h3{
+			margin-top: 2%;
+			margin-bottom: 5%;
+			font-size: 40px;
+			font-family: Cusive,monospace;
+			color: #0BD3D5;
+			font-weight: bold;
+		}
+		
+		.btn{
+			background-color: #0BD3D5;
+			color: white;
+			margin-top: 5%;
+		}
+		
+		.form-group{
+			color: black;
+			font-size: 25px;
+			font-family: Cusive,monospace;
+			margin-top: 8%;
+		}
+		
+		.footer{
+			background: #2D2D2D;
+			color: white;
+			margin-top: 3%;
+			padding-top: 50px;
+			padding-bottom: 50px;
+			text-align: left;
+		}
+		
+		h5{
+			color: #0BB59D;
+			font-family: Arial Rounded MT Bold;
+		}
+		
+		.atas{
+			margin-top: 1%;
+			margin-left: 4%;
+		}
+		
+		.logoFol{
+			height: 25px;
+			margin-left: 12%;
+		}
+		
+		.logoPay{
+			margin-left: 5%;
+			margin-top: 4%;
+		}
+	</style>
+

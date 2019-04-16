@@ -1,0 +1,29 @@
+.footer{
+	background: #2D2D2D;
+	color: white;
+	margin-top: 5%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: left;
+}
+
+.footer h4{
+	color: #0BB59D;
+	font-weight:600;
+	font-family: Arial Rounded MT Bold;
+}
+		
+.atas{
+	margin-top: 1%;
+	margin-left: 4%;
+}
+		
+.logoFol{
+	height: 25px;
+	margin-left: 12%;
+}
+		
+.logoPay{
+	margin-left: 5%;
+	margin-top: 4%;
+}
